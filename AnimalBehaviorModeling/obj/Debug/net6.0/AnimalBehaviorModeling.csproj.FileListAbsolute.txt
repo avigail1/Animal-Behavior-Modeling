@@ -1,0 +1,15 @@
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\bin\Debug\net6.0\AnimalBehaviorModeling.exe
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\bin\Debug\net6.0\AnimalBehaviorModeling.deps.json
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\bin\Debug\net6.0\AnimalBehaviorModeling.runtimeconfig.json
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\bin\Debug\net6.0\AnimalBehaviorModeling.dll
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\bin\Debug\net6.0\AnimalBehaviorModeling.pdb
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\obj\Debug\net6.0\AnimalBehaviorModeling.csproj.AssemblyReference.cache
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\obj\Debug\net6.0\AnimalBehaviorModeling.GeneratedMSBuildEditorConfig.editorconfig
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\obj\Debug\net6.0\AnimalBehaviorModeling.AssemblyInfoInputs.cache
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\obj\Debug\net6.0\AnimalBehaviorModeling.AssemblyInfo.cs
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\obj\Debug\net6.0\AnimalBehaviorModeling.csproj.CoreCompileInputs.cache
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\obj\Debug\net6.0\AnimalBehaviorModeling.dll
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\obj\Debug\net6.0\refint\AnimalBehaviorModeling.dll
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\obj\Debug\net6.0\AnimalBehaviorModeling.pdb
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\obj\Debug\net6.0\AnimalBehaviorModeling.genruntimeconfig.cache
+F:\verisoft\AnimalBehaviorModeling\AnimalBehaviorModeling\obj\Debug\net6.0\ref\AnimalBehaviorModeling.dll
