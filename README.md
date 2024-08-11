@@ -26,5 +26,6 @@ To run the project, simply clone the repository, open it in your preferred C# ID
 
 
 ## UML Diagram
-![image](https://github.com/user-attachments/assets/930e7998-c234-49e0-a3db-a566de8e542d)
+![image](https://github.com/user-attachments/assets/c7db30ef-3d9e-42d3-a8b7-bfaaf34051bf)
+
 
