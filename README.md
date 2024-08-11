@@ -26,58 +26,5 @@ To run the project, simply clone the repository, open it in your preferred C# ID
 
 
 ## UML Diagram
+![image](https://github.com/user-attachments/assets/930e7998-c234-49e0-a3db-a566de8e542d)
 
-+-----------------------------+
-| <<abstract>> Animal          |
-+-----------------------------+
-| - mammals: bool              |
-| - carnivorous: bool          |
-| - mood: int                  |
-+-----------------------------+
-| + sayHello(): void           |
-| + sayHello(mood: int): void  |
-| + ToString(): string         |
-+-----------------------------+
-
-              ▲
-              |
-+-------------+-----------------------+
-|             |                        |
-|             |                        |
-|             |                        |
-| +-----------------------------+      +-----------------------------+
-| |          Cat                 |      |           Dog               |
-| +-----------------------------+      +-----------------------------+
-| | - NumberOfLegs: int          |      | - NumberOfLegs: int          |
-| +-----------------------------+      +-----------------------------+
-| | + sayHello(): void           |      | + sayHello(): void           |
-| | + getNumberOfLegs(): int     |      | + getNumberOfLegs(): int     |
-| +-----------------------------+      +-----------------------------+
-
-              |
-              |
-              ▼
-
-+-----------------------------+
-|           Frog               |
-+-----------------------------+
-| - NumberOfLegs: int          |
-+-----------------------------+
-| + sayHello(): void           |
-| + HasGills(): bool           |
-| + HasLaysEggs(): bool        |
-| + getNumberOfLegs(): int     |
-+-----------------------------+
-
-+-----------------------------+
-|           <<interface>> Land |
-+-----------------------------+
-| + getNumberOfLegs(): int     |
-+-----------------------------+
-
-+-----------------------------+
-|           <<interface>> Water|
-+-----------------------------+
-| + HasGills(): bool           |
-| + HasLaysEggs(): bool        |
-+-----------------------------+
