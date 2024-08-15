@@ -30,10 +30,6 @@ namespace AnimalBehaviorModeling
                 Console.WriteLine("meow~");
             }
         }
-        public override void sayHello(int mood)
-        {
-            base.sayHello(mood);
-        }
 
         public int getNumberOfLegs()
         {

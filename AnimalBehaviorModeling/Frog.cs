@@ -31,11 +31,6 @@ namespace AnimalBehaviorModeling
             }
         }
 
-        public override void sayHello(int mood)
-        {
-            base.sayHello(mood);
-        }
-
         public bool HasGills()
         {
             return false;

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\verisoft\\AnimalBehaviorModeling\\AnimalBehaviorModeling\\AnimalBehaviorModeling.csproj",
+      "projectUniqueName": "F:\\verisoft\\Animal-Behavior-Modeling\\AnimalBehaviorModeling\\AnimalBehaviorModeling.csproj",
       "projectName": "AnimalBehaviorModeling",
-      "projectPath": "F:\\verisoft\\AnimalBehaviorModeling\\AnimalBehaviorModeling\\AnimalBehaviorModeling.csproj",
+      "projectPath": "F:\\verisoft\\Animal-Behavior-Modeling\\AnimalBehaviorModeling\\AnimalBehaviorModeling.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "F:\\verisoft\\AnimalBehaviorModeling\\AnimalBehaviorModeling\\obj\\",
+      "outputPath": "F:\\verisoft\\Animal-Behavior-Modeling\\AnimalBehaviorModeling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
