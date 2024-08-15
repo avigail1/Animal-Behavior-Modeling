@@ -9,21 +9,21 @@ namespace AnimalBehaviorModeling
 {
     abstract class Animal
     {
-        protected bool mammals { get; set; }
+        protected bool Mammals { get; set; }
 
-        protected bool carnivorous { get; set; }
+        protected bool Carnivorous { get; set; }
 
         public readonly int MOOD_HAPPY = 1;
 
         public readonly int MOOD_SCARE = 2;
 
-        protected int mood;
+        protected int Mood;
 
         public Animal(bool mammals, bool carnivorous, int mood)
         {
-            this.mammals = mammals;
-            this.carnivorous = carnivorous;
-            this.mood=mood;
+            this.Mammals = mammals;
+            this.Carnivorous = carnivorous;
+            this.Mood=mood;
         }
 
         #region methods
@@ -31,7 +31,7 @@ namespace AnimalBehaviorModeling
 
         public virtual void sayHello(int mood)
         {
-            this.mood = mood;
+            this.Mood = mood;
             sayHello();
         }
 

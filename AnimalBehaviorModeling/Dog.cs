@@ -17,11 +17,11 @@ namespace AnimalBehaviorModeling
         #region methods
         public override void sayHello()
         {
-            if (mood == MOOD_HAPPY)
+            if (Mood == MOOD_HAPPY)
             {
                 Console.WriteLine("bark, bark");
             }
-            else if (mood == MOOD_SCARE)
+            else if (Mood == MOOD_SCARE)
             {
                 Console.WriteLine("whoop, whoop");
             }
